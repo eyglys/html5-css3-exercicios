@@ -28,8 +28,8 @@ Esta lista de exercícios é parte integrante da disciplina, para o estudo do HT
    ![](imgs/08.png)
 9.  E uma não ordenada também! 
   
-    ![](imgs/08.png)
+    ![](imgs/09.png)
 
 10. Crie uma lista ordenada com subitens não ordenados.
 
-    ![](imgs/08.png)
+    ![](imgs/10.png)
